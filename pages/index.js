@@ -362,7 +362,7 @@ export default function Home() {
               <div className="pricing-card featured">
                 <div className="badge">Most Popular</div>
                 <h3>Pro</h3>
-                <div className="price">$29 <span>/month</span></div>
+                <div className="price">$75 <span>/month</span></div>
                 <p className="desc">For growing businesses</p>
                 <ul>
                   <li>1,000 generations per month</li>
