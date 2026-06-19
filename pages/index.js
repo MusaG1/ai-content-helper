@@ -376,7 +376,7 @@ export default function Home() {
               </div>
               <div className="pricing-card">
                 <h3>Agency</h3>
-                <div className="price">$79 <span>/month</span></div>
+                <div className="price">$115 <span>/month</span></div>
                 <p className="desc">For agencies &amp; multi-location</p>
                 <ul>
                   <li>10,000 generations per month</li>
